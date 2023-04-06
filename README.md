@@ -1,5 +1,5 @@
 # NFT-Crap
-NFT-Crap is a project that aims to educate and promote the adoption of web3 through gamification and storytelling.
+NFT-Crap is a project that aims to educate and promote the adoption of web3 through gamification and storytelling. 1
 
 # SetUp 
 - Instalacion del Visual Studio Code https://azure.microsoft.com/es-es/products/visual-studio-code/
