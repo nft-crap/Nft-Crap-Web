@@ -24,3 +24,37 @@ document.getElementById("myForm").addEventListener("submit", function(event){
   event.preventDefault();
   validarRespuestas();
 });
+
+
+// Definir arreglo de títulos de libros correctos
+const titulosCorrectos = ["Título libro 1", "Título libro 2"];
+
+function validarRespuestasArray() {
+  // Obtener valor de cada caja de texto
+  const respuesta1 = document.getElementById("respuesta1").value.trim();
+  const respuesta2 = document.getElementById("respuesta2").value.trim();
+
+  // Almacenar respuestas en un arreglo
+  const respuestasUsuario = [respuesta1, respuesta2];
+
+  // Ordenar el arreglo de respuestas del usuario
+  respuestasUsuario.sort();
+
+  // Comparar los arreglos de respuestas del usuario y respuestas correctas
+  if (JSON.stringify(respuestasUsuario) === JSON.stringify(titulosCorrectos)) {
+    // Si las respuestas son correctas, mostrar código HTML deseado
+    document.getElementById("myFormArray").innerHTML = iframeCode;
+
+  
+      // Ocultar el mensaje de error si estaba visible
+      document.getElementById("mensajeError").style.display = "none";
+  } else {
+    // Si las respuestas son incorrectas, mostrar el mensaje de error y mantener el formulario
+    document.getElementById("mensajeError").style.display = "block";
+  }
+}
+
+document.getElementById("myFormArray").addEventListener("submit", function(event){
+  event.preventDefault();
+  validarRespuestasArray();
+});
