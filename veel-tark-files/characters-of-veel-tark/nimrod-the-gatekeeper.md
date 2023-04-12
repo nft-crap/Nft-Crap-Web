@@ -1,50 +1,50 @@
 # Nimrod, the Gatekeeper
 
-NAME:                                      Nimrod
+**NAME:**                                    Nimrod
 
-RACE:                                       Spectral
+**RACE:**                                      Spectral
 
-POSITION:                                Gatekeeper
-
-
-
-GUILD:                                       Sentinel
-
-BRANCH:                                   Seraph
-
-HOUSE:                                      ----------
+**POSITION:**                              Gatekeeper
 
 
 
-FACTION:                                   Stellar Circle
+**GUILD:**                                       Sentinel
+
+**BRANCH:**                                   Seraph
+
+**HOUSE:**                                    ----------
 
 
 
-STRENGTH                                54 %     &#x20;
-
-MOVEMENT                              47 %
-
-CONSTITUTION                        63 %
+**FACTION:**                                  Stellar Circle
 
 
 
-INTELLIGENCE                          78 %
+**STRENGTH**                                54 %     &#x20;
 
-WISDOM                                    85 %
+**MOVEMENT**                             47 %
 
-CHARISMA                                73 %
-
-
-
-TECHNOMANCY                      45 %                   &#x20;
-
-ETHERIC AFFINITY                  84 %
-
-NETWORK NAVIGATION          92 %
+**CONSTITUTION**                      63 %
 
 
 
-BACKGROUND
+**INTELLIGENCE**                          78 %
+
+**WISDOM**                                   85 %
+
+**CHARISMA**                               73 %
+
+
+
+**TECHNOMANCY**                     45 %                   &#x20;
+
+**ETHERIC AFFINITY**                 84 %
+
+**NETWORK NAVIGATION**          92 %
+
+
+
+**STORY**
 
 The Gatekeeper of Veel-Tark is a sentinel of the spectral race, known for his great wisdom, serenity, elegant form, and magnetic presence. As the keeper of the gateway to the city, he has been tasked with ensuring the safety and protection of Veel-Tark from any threats that may come from the outside world.
 
