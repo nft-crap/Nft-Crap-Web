@@ -11,5 +11,3 @@ The humanite society is very advanced and technology-oriented. They often work i
 However, despite their love for technology, humanites are very aware of the dangers and challenges posed by the online world. Many of them work to improve security and protect citizens from attacks in the metaverse, virtual and digital.
 
 Cyberhuman culture values collaboration and teamwork and often come together to work on important projects and achieve common goals. They are also very aware of the need to balance technology and humanity and constantly seek ways to integrate advances in ways that enhance human life rather than replace it.
-
-\
