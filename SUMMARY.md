@@ -38,7 +38,7 @@
   * [THE BROTHERHOODS](veel-tark-files/roles-guide/the-brotherhoods.md)
   * [THE RACES](veel-tark-files/roles-guide/the-races/README.md)
     * [Humanites](veel-tark-files/roles-guide/the-races/humanites.md)
-    * [Page 2](veel-tark-files/roles-guide/the-races/page-2.md)
+    * [Reptilians](veel-tark-files/roles-guide/the-races/reptilians.md)
     * [Page 3](veel-tark-files/roles-guide/the-races/page-3.md)
     * [Page 4](veel-tark-files/roles-guide/the-races/page-4.md)
     * [Page 5](veel-tark-files/roles-guide/the-races/page-5.md)
