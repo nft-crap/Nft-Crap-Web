@@ -48,11 +48,10 @@
 
 **STORY**
 
-The Gatekeeper of Veel-Tark is a sentinel of the spectral race, known for his great wisdom, serenity, elegant form, and magnetic presence. As the keeper of the gateway to the city, he has been tasked with ensuring the safety and protection of Veel-Tark from any threats that may come from the outside world.
+Procyon the Ambassador is a prominent procurator in the trustees branch and belongs to the prestigious councillors house. He has always been a humanita with a strong sense of justice and equality, dedicating himself to helping those in need in the city of Veel-Tark. But his career took a drastic turn when he was selected to join the Welcome Committee.
 
-Born into a long line of Guardians, he was trained in the art of spectral magic from a young age, honing his abilities to manipulate the fabric of reality itself. With his mastery of this magic, he is able to create powerful wards that keep Veel-Tark safe from harm.
+As a member of the Committee, he is responsible for welcoming and assisting new citizens who arrive in the city. Procyon knows how difficult it can be to adapt to an unfamiliar environment, especially for those who come from other worlds. That's why he always makes an extra effort to ensure they feel welcome and understand the complexity and beauty of the city.
 
-Though he is often seen as reserved and aloof, the Gatekeeper cares deeply for the people of Veel-Tark and works tirelessly to maintain the harmony and balance of the city. His presence alone is often enough to ward off any would-be attackers, but when danger does arise, he is a fearsome opponent.
+However, it was not all as easy as it seems. The city was constantly evolving, and each new wave of citizens brought with them new ideas, traditions, and customs. Procyon tries to understand and convey this constant update of dynamics to new citizens.
 
-Many rumors and legends have grown up around the Gatekeeper, but one thing is certain: he is a steadfast protector and a symbol of hope and security for the people of Veel-Tark.
-
+Through his work on the Welcome Committee, Procyon has become one of the most respected and beloved figures in the city. He always strives to find practical and emotional solutions to the difficulties new citizens face, and his deep knowledge and understanding of the city help countless people integrate into the complex and fascinating society of Veel-Tark.
