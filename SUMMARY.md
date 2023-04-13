@@ -74,3 +74,4 @@
 * [CHARACTERS OF VEEL-TARK](veel-tark-files/characters-of-veel-tark/README.md)
   * [Nimrod, the Gatekeeper](veel-tark-files/characters-of-veel-tark/nimrod-the-gatekeeper.md)
   * [Procyon, the Ambassador](veel-tark-files/characters-of-veel-tark/procyon-the-ambassador.md)
+  * [Senet, the Game Master](veel-tark-files/characters-of-veel-tark/senet-the-game-master.md)
