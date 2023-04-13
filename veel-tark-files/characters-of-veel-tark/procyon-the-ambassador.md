@@ -52,6 +52,6 @@ Procyon the Ambassador is a prominent procurator in the trustees branch and belo
 
 As a member of the Committee, he is responsible for welcoming and assisting new citizens who arrive in the city. Procyon knows how difficult it can be to adapt to an unfamiliar environment, especially for those who come from other worlds. That's why he always makes an extra effort to ensure they feel welcome and understand the complexity and beauty of the city.
 
-However, it was not all as easy as it seems. The city was constantly evolving, and each new wave of citizens brought with them new ideas, traditions, and customs. Procyon tries to understand and convey this constant update of dynamics to new citizens.
+However, it is not all as easy as it seems. The city is constantly evolving, and each new wave of citizens brings new ideas, traditions, and customs. Procyon tries to understand and convey this constant update of dynamics to new citizens.
 
 Through his work on the Welcome Committee, Procyon has become one of the most respected and beloved figures in the city. He always strives to find practical and emotional solutions to the difficulties new citizens face, and his deep knowledge and understanding of the city help countless people integrate into the complex and fascinating society of Veel-Tark.
