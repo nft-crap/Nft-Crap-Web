@@ -8,6 +8,6 @@ The history of the spectrals is enigmatic and mysterious, and many aspects of th
 
 Since then, and for countless sequences of time, the spectrals have lived in the shadows, hidden and feared by the rest of the population of Veel-Tark. Although many consider them to be evil and dangerous creatures, others see them as wise and respectable beings, capable of offering unique knowledge and perspectives.
 
-Despite their ethereal and pale appearance, the spectrals are capable of communicating with other races through the use of their telepathy, and can even influence the physical world through their magical abilities. Many of them have become experts in the use of magic and in the manipulation of the invisible forces that govern the universe.
+The spectrals are capable of communicating with other races through the use of their telepathy, and can even influence the physical world through their magical abilities. Many of them have become experts in the use of magic and in the manipulation of the invisible forces that govern the universe.
 
 Despite their shadowy reputation, the Spectrals are in fact a peaceful and reflective race, dedicated to the study and exploration of the mysteries of the world. Through their wisdom and knowledge, they have managed to be accepted by the rest of the population of Veel-Tark and recognized as a race in the city.
