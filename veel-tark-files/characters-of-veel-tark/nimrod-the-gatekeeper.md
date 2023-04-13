@@ -1,5 +1,7 @@
 # Nimrod, the Gatekeeper
 
+<figure><img src="../../.gitbook/assets/Nimrod, the Gatekeeper.png" alt=""><figcaption></figcaption></figure>
+
 **NAME:**                                    Nimrod
 
 **RACE:**                                      Spectral
@@ -53,8 +55,4 @@ Born into a long line of Guardians, he was trained in the art of spectral magic 
 Though he is often seen as reserved and aloof, the Gatekeeper cares deeply for the people of Veel-Tark and works tirelessly to maintain the harmony and balance of the city. His presence alone is often enough to ward off any would-be attackers, but when danger does arise, he is a fearsome opponent.
 
 Many rumors and legends have grown up around the Gatekeeper, but one thing is certain: he is a steadfast protector and a symbol of hope and security for the people of Veel-Tark.
-
-
-
-<figure><img src="../../.gitbook/assets/Frontal (7).png" alt=""><figcaption></figcaption></figure>
 
