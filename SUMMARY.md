@@ -40,7 +40,7 @@
     * [Humanites](veel-tark-files/roles-guide/the-races/humanites.md)
     * [Reptilians](veel-tark-files/roles-guide/the-races/reptilians.md)
     * [Cyanites](veel-tark-files/roles-guide/the-races/cyanites.md)
-    * [Page 4](veel-tark-files/roles-guide/the-races/page-4.md)
+    * [Spectrals](veel-tark-files/roles-guide/the-races/spectrals.md)
     * [Page 5](veel-tark-files/roles-guide/the-races/page-5.md)
 * [CITY MAP](veel-tark-files/city-map/README.md)
   * [CENTRAL DISTRICT](veel-tark-files/city-map/central-district/README.md)
