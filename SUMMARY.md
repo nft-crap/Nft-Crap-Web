@@ -73,3 +73,4 @@
     * [Constitution](veel-tark-files/traits-of-the-khepris/characteristics/constitution.md)
 * [CHARACTERS OF VEEL-TARK](veel-tark-files/characters-of-veel-tark/README.md)
   * [Nimrod, the Gatekeeper](veel-tark-files/characters-of-veel-tark/nimrod-the-gatekeeper.md)
+  * [Procyon, the Ambassador](veel-tark-files/characters-of-veel-tark/procyon-the-ambassador.md)
