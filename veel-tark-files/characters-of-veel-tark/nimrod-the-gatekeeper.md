@@ -12,7 +12,7 @@
 
 **GUILD:**                                       Sentinel
 
-**BRANCH:**                                   Seraph
+**BRANCH:**                                   Seraphs
 
 **HOUSE:**                                    ----------
 

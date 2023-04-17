@@ -12,7 +12,7 @@
 
 **GUILD:**                                       Sentinel
 
-**BRANCH:**                                   Archangel
+**BRANCH:**                                   Archangels
 
 **HOUSE:**                                    ----------
 
