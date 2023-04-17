@@ -34,7 +34,7 @@
 
 **WISDOM**                                   91 %
 
-**CHARISMA**                               72 %
+**CHARISMA**                               77 %
 
 
 
