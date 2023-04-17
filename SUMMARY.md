@@ -75,3 +75,4 @@
   * [Nimrod, the Gatekeeper](veel-tark-files/characters-of-veel-tark/nimrod-the-gatekeeper.md)
   * [Procyon, the Ambassador](veel-tark-files/characters-of-veel-tark/procyon-the-ambassador.md)
   * [Senet, the Game Master](veel-tark-files/characters-of-veel-tark/senet-the-game-master.md)
+  * [Lyra, the Master of the Council](veel-tark-files/characters-of-veel-tark/lyra-the-master-of-the-council.md)
