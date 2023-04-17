@@ -77,3 +77,4 @@
   * [Senet, the Game Master](veel-tark-files/characters-of-veel-tark/senet-the-game-master.md)
   * [Lyra, the Master of the Council](veel-tark-files/characters-of-veel-tark/lyra-the-master-of-the-council.md)
   * [Cepheus, the Judge](veel-tark-files/characters-of-veel-tark/cepheus-the-judge.md)
+  * [Pictor, the General](veel-tark-files/characters-of-veel-tark/pictor-the-general.md)
