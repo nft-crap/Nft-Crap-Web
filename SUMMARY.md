@@ -78,3 +78,4 @@
   * [Lyra, the Master of the Council](veel-tark-files/characters-of-veel-tark/lyra-the-master-of-the-council.md)
   * [Cepheus, the Judge](veel-tark-files/characters-of-veel-tark/cepheus-the-judge.md)
   * [Pictor, the General](veel-tark-files/characters-of-veel-tark/pictor-the-general.md)
+  * [Ursa, the Machine Whisperer](veel-tark-files/characters-of-veel-tark/ursa-the-machine-whisperer.md)
