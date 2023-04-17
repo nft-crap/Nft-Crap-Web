@@ -53,5 +53,3 @@ Senet, the Game Master, was born into a family of reptilian exegetes, renowned f
 When he joined the guild of the exégetas, he quickly made a name for himself as a talented erudite, able to use his mastery of symbols and language to craft truly mind-bending puzzles. However, his irreverent and playful approach often rubs his colleagues the wrong way, and he finds himself constantly butting heads with the more serious and traditional members of his guild.
 
 Despite his somewhat cynical and sarcastic demeanor, Senet genuinely enjoys bringing joy and amusement to others through his work. He sees the world as a vast playground, filled with endless opportunities for games and challenges. And while some may see him as a troublemaker or prankster, there is no denying that his enigmatic puzzles have brought a great deal of entertainment and stimulation to the citizens of Veel-Tark.
-
-\
