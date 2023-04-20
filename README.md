@@ -1,16 +1,11 @@
-# NFT-Crap
-NFT-Crap is a project that aims to educate and promote the adoption of web3 through gamification and storytelling. 1
+# HISTORY OF VEEL-TARK
 
-# SetUp 
-- Instalacion del Visual Studio Code https://azure.microsoft.com/es-es/products/visual-studio-code/
-- Instalacion Git https://git-scm.com/downloads (revisar opciones por defecto)
-- Crear cuenta en Github - Dani
-    * Configurar usuario Github  $ git config --global user.name "Usuario"
-    * Configurar email Github    $ git config --global user.email ejemplo@ejemplo.com
-    * Prueba Dani
-- Configurar extensiones Git en Visual Studio Code
-- Clonar repositorio en Visual Studio Code
-    * View \ Command Palette \ Git: Clone \ Pegar URL repositorio Github
-    * Prueba Dani
-    hola que tal, estoy haciendo muchos cambios...
-    
+<figure><img src=".gitbook/assets/ChristianRM__NFT-Crap_an_expansive_view_of_an_outdoor_fantasy_c_7da54e12-3d63-47a4-90a7-1afadb0da0e6.png" alt=""><figcaption></figcaption></figure>
+
+The History of Veel-Tark is not only the story of the creation of a city; it is, above all, the genesis of a dream, of a magical space that takes the form of a gigantic cenacle where great knowledge and wisdom can be brought together.
+
+Veel-Tark is thus a decentralised universe, where information is available to all. It is, in essence, a great game board that is projected on the subtle plane through the imagination of all its citizens.
+
+Yes, Veel-Tark is a game, a game of puzzles, riddles and quests; but it is also a statement of principles and values. It is a proposal for the future, a world of portals to hidden wisdom, to a universal community, to decentralised knowledge.
+
+Because knowledge is power. On each of us, as players, depends the use we make of it.
