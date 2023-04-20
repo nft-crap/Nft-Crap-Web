@@ -53,7 +53,7 @@
         <nav class="navbar navbar-expand-md navbar-togglable fixed-top navbar-light"> <!-- bg-white shadow-->
             <div class="container">
                 <!-- Brand-->
-                <a class="navbar-brand" href="index.html">
+                <a class="navbar-brand" href="https://nft-crap.com">
                     <img src="../assets/img/logo-beeple-1.png" id="navbar-logo" width="40" alt="NFT Crap" class="align-text-center">
                     <strong class="text-dark">&nbsp;NFT-Crap</strong>
                 </a>
@@ -65,111 +65,84 @@
                 <div class="navbar-collapse collapse text-gray" id="navbarCollapse">
                     <ul class="navbar-nav ms-auto fw-bold">
                         <li class="nav-item">
-                            <a class="nav-link text-gray me-2" href="#Game" id="navbarGame" role="button" aria-haspopup="true" aria-expanded="false">
-                                The Game
+                            <a class="nav-link text-gray me-2" href="https://nft-crap.com" target="_blank" id="ENnavbarWeb" role="button" aria-haspopup="true" aria-expanded="false">
+                                Web
                             </a>
                         </li> 
                         <li class="nav-item">
                             <a class="nav-link text-gray me-2" href="https://nft-crap.gitbook.io/the-game" target="_blank" id="ENnavbarGuide" role="button" aria-haspopup="true" aria-expanded="false">
                                 Player's Book
                             </a>
-                        </li>      
-                        <li class="nav-item">
-                            <a class="nav-link text-gray me-2" href="#Team" id="navbarTeam" role="button" aria-haspopup="true" aria-expanded="false">
-                                Team
-                            </a>
-                        </li>                   
-                        <li class="nav-item dropdown me-2">
-                            <a class="nav-link dropdown-toggle text-gray" href="#" id="navbarLanguage" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                EN
-                            </a>
-                            <div class="dropdown-menu" aria-labelledby="navbarLanguage">
-                                <a class="dropdown-item text-gray" href="es/">ES</a>
-                            </div>
-                        </li>  
-                        <!--
+                        </li>       
                         <li class="nav-item">
                             <a id="EN-Discord" class="nav-link text-black me-2" href="https://discord.gg/tRVPATWHWM" target="_blank">
                                 <img src="../assets/img/discord-black-icon.png" id="EN-Discord-Logo" width="30" alt="Discord" class="align-text-center">
                             </a>
                         </li>
-                        -->
                         <li class="nav-item">
                             <a id="EN-Twitter" class="nav-link text-black me-2" href="https://twitter.com/nft_crap" target="_blank">
                                 <img src="../assets/img/twitter-black-icon.png" id="EN-Twitter-Logo" width="30" alt="Discord" class="align-text-center">
                             </a>
                         </li>  
                     </ul>
-                    <!-- Button 
-                    <button id="btn-login" type="button" class="navbar-btn btn btn-dark btn-sm">Connect wallet</button>
-                    <button id="btn-logout" type="button" class="navbar-btn btn btn-outline-gray btn-sm">Logout</button>
-                    -->
                 </div>
 
             </div>
         </nav>
-        
-        <A name="Home"></A>
 
-        <!-- Cover -->
-        <div class="container-fluid d-flex h-100 justify-content-center align-items-center gx-0 bg-cover">
         <!-- Content -->
-            <div class="row justify-content-center align-items-center opacity-1">
+        <div class="container mt-5">
+            <div class="row justify-content-center pt-5 pb-2">
+                <div class="col-10">
+                    <!-- Heading -->
+                    <h1 class="display-4 text-gray text-center mb-3 animate fw-bold" data-bs-toggle="animation" data-bs-animation="fadeUp" data-bs-animation-order="1" data-bs-animation-trigger="load"> 
+                        Door of Anubis
+                    </h1>
+                    <h5 class="text-center mb-3 animate fw-500" data-bs-toggle="animation" data-bs-animation="fadeUp" data-bs-animation-order="2" data-bs-animation-trigger="load"> 
+                        Lady Hampton has been murdered. Can you discover the murderer?
+                    </h5>  
+                </div>
             </div>
-            <div class="row justify-content-center align-items-center">
-                <div class="col-12 my-5">
+            <div class="row justify-content-center">
+                <div class="col-10">
                     <!-- Form -->                   
-                    <form id="myFormArray" class="row align-items-center">
-                        <div id="mensajeError" class="col-10 alert alert-danger" style="display:none;">
-                            <strong>¡Error!</strong> Respuesta incorrecta. Por favor, inténtalo de nuevo.
+                    <form id="anubis_form">
+                        <div id="mensajeError" class="alert alert-danger" style="display:none;">
+                            <strong>Ups!</strong> Wrong aswer. Please, try again.
                         </div>
-                        <div class="col-10 form-floating mb-3">
-                            <input type="text" class="form-control" id="respuesta1" placeholder="Pregunta 1">
-                            <label for="quest1">Pregunta 1</label>
+                        <div>
+                            <select id="quest_1" class="form-select mb-3" aria-label="Default select example">
+                                <option selected>Mark  the suspect you think has committed the murder</option>
+                                <option value="1">The Butler</option>
+                                <option value="2">The Gatekeeper</option>
+                                <option value="3">The Coachman</option>
+                                <option value="4">The Cook</option>
+                                <option value="5">The Gardener</option>
+                            </select>
                         </div>
-                        <div class="col-10 form-floating mb-3">
-                            <input type="text" class="form-control" id="respuesta2" placeholder="Pregunta 2">
-                            <label for="quest2">Pregunta 2</label>
-                        </div>
-                        <div class="col-10">
-                            <button type="submit" class="btn btn-gray">Enviar</button>
+                        <div>
+                            <button type="submit" class="btn btn-gray">Send</button>
                         </div>
                     </form>
-
-                </div>
-            </div>
-   
-            <A name="Game"></A>
-
+                </div> <!-- col -->
+            </div> <!-- row -->
         </div> <!-- container -->
 
-        <!-- overlay -->
-        <div class="container-fluid vh-100 align-items-center bg-light"></div> 
-
-        <!-- Footer -->
-        <footer class="position-relative" id="footer-main">
-            <div class="footer footer-light bg-light">
-                <!-- Footer -->
-                <div class="container bg-light">
-                    <div class="row align-items-center justify-content-md-between pb-4">
-                        <div class="col-md-6">
-                            <div class="copyright text-sm font-weight-bold text-start text-md-left">
-                                &copy; 2023 <a href="" class="font-weight-bold" target="_blank">NFT Crap</a>. All rights reserved
-                            </div>
-                        </div>
-                        <div class="col-md-6">
-                            <ul class="nav justify-content-center justify-content-md-end mt-3 mt-md-0">
-                                <li class="nav-item">
-                                    <a class="nav-link" data-bs-toggle="modal" data-bs-target="#termsModal" href="">
-                                        Terms and Conditions
-                                    </a>
-                                </li>
-                            </ul>
-                        </div>
+        <div class="container">
+            <footer class="d-flex flex-wrap justify-content-between align-items-center py-3 my-4 border-top">
+                <div class="col-7 d-flex align-items-center text-start">
+                    <span>&copy; 2023 <a href="" class="font-weight-bold" target="_blank">NFT Crap</a>. All rights reserved</span>
+                </div>
+          
+                <div class="col-5 justify-content-end list-unstyled d-flex">
+                    <div class="btn-link text-sm text-end text-md-right" data-bs-toggle="modal" data-bs-target="#termsModal" href="">
+                        Terms and Conditions
                     </div>
                 </div>
-            </div>
-        </footer> 
+            </footer>
+        </div>
+
+          
         <!-- Cookie-Alert -->
         <div class="alert text-center cookiealert" role="alert">
             We use cookies to improve your browsing experience and to analyze traffic on our website. <a href="#" target="_blank">Learn more</a>

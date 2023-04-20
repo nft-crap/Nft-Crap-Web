@@ -70,20 +70,10 @@
                             </a>
                         </li> 
                         <li class="nav-item">
-                            <a class="nav-link text-gray me-2" href="#Roadmap" id="navbarRoadmap" role="button" aria-haspopup="true" aria-expanded="false">
-                                Roadmap
-                            </a>
-                        </li> 
-                        <li class="nav-item">
                             <a class="nav-link text-gray me-2" href="https://nft-crap.gitbook.io/the-game" target="_blank" id="ENnavbarGuide" role="button" aria-haspopup="true" aria-expanded="false">
                                 Player's Book
                             </a>
                         </li>      
-                        <li class="nav-item">
-                            <a class="nav-link text-gray me-2" href="#News" id="navbarNews" role="button" aria-haspopup="true" aria-expanded="false"> 
-                                The NFT-Crap News
-                            </a>
-                        </li>  
                         <li class="nav-item">
                             <a class="nav-link text-gray me-2" href="#Team" id="navbarTeam" role="button" aria-haspopup="true" aria-expanded="false">
                                 Team
@@ -130,27 +120,40 @@
                 <div class="col-12 my-5">
                     <!-- Form -->                   
                     <form id="myForm" class="row align-items-center">
+                        <div class="col-10 align-items-center justify-content-center px-2 px-sm-5 py-4">
+                            <h1 class="display-4 text-gray text-center text-md-left mb-3">
+                                <strong>Door of</strong>
+                            </h1>
+                            <p class="display-6 text-center text-md-left mb-4">
+                                The missing line of code. Can you find the correct line of code?
+                            </p>
+                            <p class="display-6 lead text-center text-md-left mb-4">
+                                Mark the missing line in the code block.
+                            </p>
+                        </div>  
                         <div id="mensajeError" class="col-10 alert alert-danger" style="display:none;">
                             <strong>¡Error!</strong> Respuesta incorrecta. Por favor, inténtalo de nuevo.
                         </div>
-                        <select class="form-select  mb-3" aria-label="Default select example">
-                            <option selected>Choose your answer</option>
-                            <option value="1">One</option>
-                            <option value="2">Two</option>
-                            <option value="3">Three</option>
-                        </select>
-                        <select class="form-select  mb-3" aria-label="Default select example">
-                            <option selected>Choose your answer</option>
-                            <option value="1">One</option>
-                            <option value="2">Two</option>
-                            <option value="3">Three</option>
-                        </select>
-                        <select class="form-select  mb-3" aria-label="Default select example">
-                            <option selected>Choose your answer</option>
-                            <option value="1">One</option>
-                            <option value="2">Two</option>
-                            <option value="3">Three</option>
-                        </select>
+                        <div class="col-10 align-items-center justify-content-center">
+                            <select id="respuesta1" class="form-select  mb-3" aria-label="Default select example">
+                                <option selected>Choose your answer</option>
+                                <option value="1">One</option>
+                                <option value="2">Two</option>
+                                <option value="3">Three</option>
+                            </select>
+                            <select id="respuesta2" class="form-select  mb-3" aria-label="Default select example">
+                                <option selected>Choose your answer</option>
+                                <option value="1">One</option>
+                                <option value="2">Two</option>
+                                <option value="3">Three</option>
+                            </select>
+                            <select id="respuesta3" class="form-select  mb-3" aria-label="Default select example">
+                                <option selected>Choose your answer</option>
+                                <option value="1">One</option>
+                                <option value="2">Two</option>
+                                <option value="3">Three</option>
+                            </select>
+                        </div>
                         <div class="col-10">
                             <button type="submit" class="btn btn-gray">Enviar</button>
                         </div>
