@@ -6,6 +6,6 @@ Welcome to the Session Zero of The Game, which begins here.
 
 Dive into Veel-Tark, the genesis of a dream created by NFT-Crap. Join the adventure.
 
-3D Model by https://sketchfab.com/cjmitchell
+3D Model by [https://sketchfab.com/cjmitchell](https://sketchfab.com/cjmitchell)
 
-Licence: https://creativecommons.org/licenses/by/4.0/
+Licence: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
