@@ -62,7 +62,7 @@
     * [The Great Hyperborean Inn](veel-tark-files/city-map/southern-district/the-great-hyperborean-inn.md)
   * [EASTERN DISTRICT](veel-tark-files/city-map/eastern-district.md)
   * [WESTERN DISTRICT](veel-tark-files/city-map/western-district.md)
-  * [Ruins outside Veel-Tark](veel-tark-files/city-map/ruins-outside-veel-tark.md)
+  * [Ruins Outside Veel-Tark](veel-tark-files/city-map/ruins-outside-veel-tark.md)
   * [The Gates of Veel-Tark](veel-tark-files/city-map/the-gates-of-veel-tark.md)
   * [Door of Thoth](veel-tark-files/city-map/door-of-thoth.md)
   * [Lemuria Academy of Veel-Tark](veel-tark-files/city-map/lemuria-academy-of-veel-tark.md)
