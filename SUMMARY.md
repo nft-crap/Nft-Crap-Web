@@ -67,6 +67,7 @@
   * [Door of Thoth](veel-tark-files/city-map/door-of-thoth.md)
   * [Lemuria Academy of Veel-Tark](veel-tark-files/city-map/lemuria-academy-of-veel-tark.md)
   * [Hermeticists](veel-tark-files/city-map/hermeticists.md)
+  * [Historical Society of Veel-Tark](veel-tark-files/city-map/historical-society-of-veel-tark.md)
 * [TRAITS OF THE KHEPRIS](veel-tark-files/traits-of-the-khepris/README.md)
   * [TAXONOMY](veel-tark-files/traits-of-the-khepris/taxonomy/README.md)
     * [The Independents](veel-tark-files/traits-of-the-khepris/taxonomy/the-independents.md)
