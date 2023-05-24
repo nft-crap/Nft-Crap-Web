@@ -62,6 +62,7 @@
     * [The Great Hyperborean Inn](veel-tark-files/city-map/southern-district/the-great-hyperborean-inn.md)
   * [EASTERN DISTRICT](veel-tark-files/city-map/eastern-district.md)
   * [WESTERN DISTRICT](veel-tark-files/city-map/western-district.md)
+  * [Ruins outside Veel-Tark](veel-tark-files/city-map/ruins-outside-veel-tark.md)
 * [TRAITS OF THE KHEPRIS](veel-tark-files/traits-of-the-khepris/README.md)
   * [TAXONOMY](veel-tark-files/traits-of-the-khepris/taxonomy/README.md)
     * [The Independents](veel-tark-files/traits-of-the-khepris/taxonomy/the-independents.md)
