@@ -63,6 +63,7 @@
   * [EASTERN DISTRICT](veel-tark-files/city-map/eastern-district.md)
   * [WESTERN DISTRICT](veel-tark-files/city-map/western-district.md)
   * [Ruins outside Veel-Tark](veel-tark-files/city-map/ruins-outside-veel-tark.md)
+  * [The Gates of Veel-Tark](veel-tark-files/city-map/the-gates-of-veel-tark.md)
 * [TRAITS OF THE KHEPRIS](veel-tark-files/traits-of-the-khepris/README.md)
   * [TAXONOMY](veel-tark-files/traits-of-the-khepris/taxonomy/README.md)
     * [The Independents](veel-tark-files/traits-of-the-khepris/taxonomy/the-independents.md)
