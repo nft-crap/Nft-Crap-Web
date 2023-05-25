@@ -2,6 +2,8 @@
 
 <figure><img src="../../.gitbook/assets/Atlantis Libray of Veel-Tark.jpg" alt=""><figcaption><p><a href="https://oncyber.io/atlantis_library_of_veel_tark">https://oncyber.io/atlantis_library_of_veel_tark</a></p></figcaption></figure>
 
+A space for study and knowledge that brings together the city of Veel-Tark.
+
 Haunted Mansion: Seance Room Book and Lectern by [https://sketchfab.com/wed-designs](https://sketchfab.com/wed-designs)
 
 Occult books by [https://sketchfab.com/athanaso](https://sketchfab.com/athanaso)
