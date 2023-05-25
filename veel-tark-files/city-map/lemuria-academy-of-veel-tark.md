@@ -4,4 +4,4 @@
 
 Lemuria Academy is a space under construction, which will be dedicated to education for the transition from web2 to web3.
 
-3D Model by art\_unchained
+3D Model by [https://art-unchained.io/](https://art-unchained.io/)
