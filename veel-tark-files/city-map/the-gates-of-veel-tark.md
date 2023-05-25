@@ -9,3 +9,5 @@ Choose your guild and the branch with which you identify.
 3D Model by Bitski.
 
 iClone 7 Raptoid Mascot by [https://sketchfab.com/reallusion](https://sketchfab.com/reallusion)
+
+License (iClone 7 Raptoid Mascot): [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
