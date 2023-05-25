@@ -14,5 +14,27 @@ Book by [https://sketchfab.com/connectionsxr](https://sketchfab.com/connectionsx
 
 Medieval Open Book 1 by [https://sketchfab.com/lloydrostek](https://sketchfab.com/lloydrostek)
 
+Alchemical book by [https://sketchfab.com/illusive\_skarwing](https://sketchfab.com/illusive\_skarwing)
+
+Book Stack by [https://sketchfab.com/paubr](https://sketchfab.com/paubr)
+
+Poetry Book by [https://sketchfab.com/LenaGiul](https://sketchfab.com/LenaGiul)
+
+Ornate Book by [https://sketchfab.com/nathanmlange](https://sketchfab.com/nathanmlange)
+
+Book by [https://sketchfab.com/James.Moore](https://sketchfab.com/James.Moore)
+
+Old Book by [https://sketchfab.com/scrumpy26](https://sketchfab.com/scrumpy26)
+
+Old book by [https://sketchfab.com/Ankledot](https://sketchfab.com/Ankledot)
+
+Wizard Book Stand by [https://sketchfab.com/peter.pottiez](https://sketchfab.com/peter.pottiez)
+
+License: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
+
+Animated Triceratops Skeleton by [https://sketchfab.com/Zacxophone](https://sketchfab.com/Zacxophone)
+
+License: [https://creativecommons.org/publicdomain/zero/1.0/](https://creativecommons.org/publicdomain/zero/1.0/)
+
 
 
