@@ -3,7 +3,7 @@
 ## THE PLOT
 
 * [HISTORY OF VEEL-TARK](README.md)
-  * [Preface](the-plot/history-of-veel-tark/preface.md)
+  * [The Prolegomena](the-plot/history-of-veel-tark/the-prolegomena.md)
   * [The Framework For Action](the-plot/history-of-veel-tark/the-framework-for-action.md)
   * [First Movements](the-plot/history-of-veel-tark/first-movements.md)
   * [The Creation Of The Game](the-plot/history-of-veel-tark/the-creation-of-the-game.md)
